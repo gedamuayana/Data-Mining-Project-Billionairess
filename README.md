@@ -123,7 +123,7 @@
 
   <li><strong>Repository Structure</strong>
     <pre>
-Data-Mining-Project-Billionaires/
+Data-Mining-Project-Billionairess/
  ┣ mining1.ipynb
  ┣ README.md
  ┗ datasets/
