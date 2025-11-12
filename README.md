@@ -114,8 +114,8 @@
     <p><strong>Name &nbsp;&nbsp;&nbsp; ID</strong></p>
     <ul>
       <li>Gedamu Ayana &nbsp;&nbsp;  1238</li>
-      <li>Hayimanot Kinde &nbsp;&nbsp; 0070</li>
-      <li>Abye Alemayehu &nbsp;&nbsp; 0373</li>
+      <li>Hayimanot Kinde &nbsp;&nbsp;0070</li>
+      <li>Abye Alemayehu &nbsp;&nbsp;0373</li>
       <li>Firehwot Abeje &nbsp;&nbsp; 0345</li>
       <li>Biniyam Kebere &nbsp;&nbsp; 0240</li>
     </ul>
