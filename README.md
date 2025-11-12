@@ -4,7 +4,7 @@
 
 <ol>
   <li><strong>Objective</strong>
-    <ol type="1">
+    <ol type="">
       <li>Understand patterns in global billionaire distribution.</li>
       <li>Identify key factors associated with high net worth.</li>
       <li>Build and compare predictive models for billionaire net worth.</li>
