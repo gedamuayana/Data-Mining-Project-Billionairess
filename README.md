@@ -1,6 +1,6 @@
 <div style="font-family: 'Times New Roman', Times, serif; line-height: 1.5;">
 
-<h1><strong>Project: Analyzing and Visualizing the World's Top Billionaires 2024</strong></h1>
+<h2><strong>Project: Analyzing and Visualizing the World's Top Billionaires 2024</strong></h2>
 
 <ol>
   <li><strong>Objective</strong>
