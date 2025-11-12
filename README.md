@@ -111,7 +111,7 @@
   </li>
 
   <li><strong>Team Members</strong>
-    <p><strong>&nbsp;&nbsp;&nbsp;Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID</strong></p>
+    <p><strong>&nbsp;&nbsp;&nbsp;Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID</strong></p>
     <ul>
       <li>Gedamu Ayana &nbsp;&nbsp;  1238</li>
       <li>Hayimanot Kinde &nbsp;0070</li>
