@@ -128,8 +128,7 @@
 Data-Mining-Project-Billionairess/
  ┣ mining1.ipynb
  ┣ README.md
- ┗ datasets/
-     ┗ billionaires_2024.csv
+ ┗ billionaires_2024.csv
     </pre>
   </li>
 </ol>
