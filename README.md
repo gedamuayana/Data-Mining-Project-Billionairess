@@ -1,4 +1,5 @@
 <div style="font-family: 'Times New Roman', Times, serif; line-height: 1.5;">
+ <h2><strong>Project: Analyzing and Visualizing the World's Top Billionaires 2024</strong></h2>
  <li><strong>Team Members</strong>
     <p><strong>&nbsp;&nbsp;&nbsp;Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID</strong></p>
     <ul>
@@ -10,7 +11,7 @@
     </ul>
   </li>
 
-<h2><strong>Project: Analyzing and Visualizing the World's Top Billionaires 2024</strong></h2>
+
 
 <ol>
   <li><strong>Objective</strong>
