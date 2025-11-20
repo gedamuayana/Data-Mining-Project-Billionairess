@@ -1,4 +1,14 @@
 <div style="font-family: 'Times New Roman', Times, serif; line-height: 1.5;">
+ <li><strong>Team Members</strong>
+    <p><strong>&nbsp;&nbsp;&nbsp;Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID</strong></p>
+    <ul>
+      <li>Gedamu Ayana &nbsp;&nbsp;  1238</li>
+      <li>Hayimanot Kinde &nbsp;0070</li>
+      <li>Abye Alemayehu &nbsp;0373</li>
+      <li>Firehwot Abeje &nbsp;&nbsp; 0345</li>
+      <li>Biniyam Kebere &nbsp;&nbsp; 0240</li>
+    </ul>
+  </li>
 
 <h2><strong>Project: Analyzing and Visualizing the World's Top Billionaires 2024</strong></h2>
 
@@ -110,16 +120,7 @@
     </ul>
   </li>
 
-  <li><strong>Team Members</strong>
-    <p><strong>&nbsp;&nbsp;&nbsp;Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID</strong></p>
-    <ul>
-      <li>Gedamu Ayana &nbsp;&nbsp;  1238</li>
-      <li>Hayimanot Kinde &nbsp;0070</li>
-      <li>Abye Alemayehu &nbsp;0373</li>
-      <li>Firehwot Abeje &nbsp;&nbsp; 0345</li>
-      <li>Biniyam Kebere &nbsp;&nbsp; 0240</li>
-    </ul>
-  </li>
+ 
 
   <li><strong>Repository Structure</strong>
     <pre>
